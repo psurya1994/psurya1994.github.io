@@ -17,6 +17,7 @@ I was a part of the team that made the first course **Introduction to Python** (
 ### What I Learned
 
 Being one of a team of eleven from around the world to create Stanford University's first crowd sourced online course, I had a great experience. We used Slack as the communication platform. All the members of the were very polite, and provided contructive feedback. Here's how we collaborated to create the course-
+
 * Decided on the syllabus for the couse.
 * Split the topics and created presentation for each fo them.
 * Added notes to the presentation- they contain exactly how we would talk while taking the course.
