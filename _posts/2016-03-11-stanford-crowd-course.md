@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stanford's First Crowd Course
+title: Contributor for Stanford's First Crowd Course
 ---
 
 I'm happy that I got an oppurtunity to be a contributor for the first online course that has been created through the [Stanford's Crowd Course Initiative](http://crowdcourse.stanford.edu/index.html). It is an experimental program by Stanford researchers to explore the possibility of collaborative teaching or course creation.
@@ -8,6 +8,7 @@ I'm happy that I got an oppurtunity to be a contributor for the first online cou
 You can have a look at the course at this [link](crowdcourse.stanford.edu/courses.html).
 
 > Videos by: Josh Pitkofsky and Surya Penmetsa
+
 > Team: Ian Bantoto, Avik Basu, Khushali Desai, Narendra Nath Joshi, Jay Lim, Manoj Pandey (admin), Surya Penmetsa, Josh Pitkofsky, Min J. Roh, Feiyu Tao, Bhavin Thaker - from Canada, India, Singapore and USA.
 
 ### My Contributions
