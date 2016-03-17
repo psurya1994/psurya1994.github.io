@@ -61,4 +61,5 @@ We punish murderers because all of us are better off that way. This helps look a
 Similary, we have to be polite to everyone because they are just like anyone of us- organiz molecules connected in a specific pattern.
 
 References:
-* Sam Harris talk on "Free Will"
+
+- Sam Harris talk on "Free Will"
