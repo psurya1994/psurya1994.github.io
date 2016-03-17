@@ -1,7 +1,7 @@
 title:            Surya's Blog
 description:      "Blogging about everything"
 logo:             logo.png
-disqus_shortname: surya
+disqus_shortname: suryapenmetsa
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
