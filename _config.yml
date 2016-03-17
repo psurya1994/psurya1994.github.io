@@ -39,6 +39,8 @@ links:
     icon: home
   - title: Featured Posts
     url: /featured
+  - title: Archive
+    url: /archive
   - title: Categories
     url: /categories
   - title: About
