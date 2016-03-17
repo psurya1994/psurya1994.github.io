@@ -37,9 +37,7 @@ This brilliant [thought experiment](https://www.youtube.com/watch?v=t5ebjk319Wg)
 
 Let us do a similar experiment now. Take your own time to do it.
 
-<div class="message">
-  Think of a movie, and as you do, try to pay attention to see what this conscious process is like.
-</div>
+**Think of a movie, and as you do, try to pay attention to see what this conscious process is like.**
 
 ##### Part 1
 
