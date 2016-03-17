@@ -1,36 +1,12 @@
 ---
 layout: page
-title: Category Index
-permalink: /categories/index.html
-title: Category Index
-tags: [Categories]
-description: "An archive of posts sorted by categories."
+title: Archive
+permalink: /archive/index.html
+title: Archive
+tags: [Archive]
+description: "An archive of posts sorted by publishing dates."
 
 ---
-
-{% for post in site.posts  %}
-    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-
-    {% if forloop.first %}
-    <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
-    <ul>
-    {% endif %}
-
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-
-    {% if forloop.last %}
-    </ul>
-    {% else %}
-        {% if this_year != next_year %}
-        </ul>
-        <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
-        <ul>
-        {% endif %}
-    {% endif %}
-{% endfor %}
-
------
 
 {% for post in site.posts  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
@@ -62,36 +38,4 @@ description: "An archive of posts sorted by categories."
             {% endif %}
         {% endif %}
     {% endif %}
-{% endfor %}
-
------
-
-<ul class="tag-box inline">
-{% assign tags_list = site.categories %}  
-  {% if tags_list.first[0] == null %}
-    {% for tag in tags_list %} 
-      <li><a href="#{{ tag }}">{{ tag | capitalize }} <span>{{ site.tags[tag].size }}</span></a></li>
-    {% endfor %}
-  {% else %}
-    {% for tag in tags_list %} 
-      <li><a href="#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>{{ tag[1].size }}</span></a></li>
-    {% endfor %}
-  {% endif %}
-{% assign tags_list = nil %}
-</ul>
-
-{% for tag in site.categories %} 
-  <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
-  <ul class="post-list">
-    {% assign pages_list = tag[1] %}  
-    {% for post in pages_list %}
-      {% if post.title != null %}
-      {% if group == null or group == post.group %}
-      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
-      {% endif %}
-      {% endif %}
-    {% endfor %}
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-  </ul>
 {% endfor %}
