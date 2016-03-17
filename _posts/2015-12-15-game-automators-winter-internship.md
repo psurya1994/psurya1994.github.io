@@ -17,4 +17,4 @@ The winter internship that I mentored during vacation in December at NIT Waranga
 
 https://www.youtube.com/watch?v=iDJW98c7uhg
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iDJW98c7uhg" frameborder="0" allowfullscreen></iframe>
+<iframe width="80%" height="80%" src="https://www.youtube.com/embed/iDJW98c7uhg" frameborder="0" allowfullscreen></iframe>
