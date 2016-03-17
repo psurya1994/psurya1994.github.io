@@ -4,7 +4,7 @@ title: "Thoughts - Being Polite and Free Will"
 description: 
 headline: 
 modified: 2016-03-16
-category: Achievements
+category: Thoughts
 tags: [jekyll]
 imagefeature: 
 mathjax: 
@@ -28,6 +28,12 @@ So, from now, even if I disagree with people on specifics, I will try to have as
 ### Free Will
 
 This brilliant [thought experiment](https://www.youtube.com/watch?v=t5ebjk319Wg) from Sam Harris demonstrates that free will is an illusion. 
+
+-----
+<div style="height:100%;width:100%;text-align:center;padding: 2% 15% 2% 15%;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/t5ebjk319Wg" frameborder="0" allowfullscreen></iframe>
+</div>
+-----
 
 Let us do a similar experiment now. Take your own time to do it.
 
