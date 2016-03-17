@@ -1,6 +1,16 @@
 ---
 layout: post
-title: Contributor for Stanford's First Crowd Course
+title: "Contributor for Stanford's First Crowd Course"
+description: 
+headline: 
+modified: 2016-03-11
+category: Achievements
+tags: [jekyll]
+imagefeature: 
+mathjax: 
+chart: 
+comments: true
+featured: false
 ---
 
 I'm happy that I got an oppurtunity to be a contributor for the first online course that has been created through the [Stanford's Crowd Course Initiative](http://crowdcourse.stanford.edu/index.html). It is an experimental program by Stanford researchers to explore the possibility of collaborative teaching or course creation.

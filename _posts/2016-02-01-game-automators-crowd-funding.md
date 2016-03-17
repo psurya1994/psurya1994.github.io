@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Game Automators - Winter Internship"
+title: "Game Automators - Crowd Funding"
 description: 
 headline: 
 modified: 2016-02-01
