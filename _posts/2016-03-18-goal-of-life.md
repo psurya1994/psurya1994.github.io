@@ -13,8 +13,6 @@ comments: true
 featured: false
 ---
 
-# Thoughts - What's the goal of life?
-
 What is the goal of my life? This is a question that keeps many of us pondering. It very rarely leads to a clear answer, but let's try to tackle to question.
 
 What does one actually want to achieve in life? What's the goal of life? It could be one of the following.
