@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How The Innovation Garage Is Helping NIT Warangal"
+title: "Innovation Garage - Are We Failing To Recognize It?"
 description: "In this article, I talk about how the Innovation Garage is a great space for students to work, learn and collaborate."
 headline: 
 modified: 2016-03-21
@@ -13,7 +13,7 @@ comments: true
 featured: false
 ---
 
-In this article, I talk about how the Innovation Garage is a great space for students to work, learn and collaborate.
+In this article, I talk about how the Innovation Garage is a great space for students to work, learn and collaborate; and how students maybe failing to recognize its importance.
 
 In 2011, when I was in my first year, I was super enthusiastic to study and learn new things. I wanted a nice silent place where I could work seriously; and library seemed to be the best. I started to spend more time in the library, but the fact that laptops were not allowed in there frustrated me. 
 
