@@ -21,7 +21,7 @@ Framing is the act of articulating your argument in words. The are many characte
 
 ### Problem with getting into opponents frame
 
-You should never get into an opponents frame because it only gives them more air time and the viewers will be more likely to remember the frame than the arguments after a fair amount of time. For example, if someone accuses you saying, "**you are mad, how can you even imagine that this policy will be helpful**"; a bad response would be "**I am not mad. I can imagine the policy to be helpful because...**" 
+You should never get into an opponents frame because it only gives them more air time and the viewers will be more likely to remember the frame than the arguments after a fair amount of time. For example, if someone accuses you saying, "**you are mad, how can you even imagine that this policy will be helpful**"; a bad response would be "**I am not mad. I can give you 10 reason why I'm not mad. I'm not mad because ...**" 
 
 Even if you give a convincing answer, the opponent will strike back with another argument on why he thinks you're crazy; and the debate will revolve around the central point if you're crazy or not. You'll have the burden of proof to justify that you're not crazy. If you don't prove is clearly, you're in a huge mess with most people thinking that you may or may not be crazy; and they don't want to take a chance, so they won't support you.
 
@@ -52,7 +52,7 @@ Here's an instance where Richard Nixon, president of the USA denies his involvem
 
 -----
 
-To learn more about framing and creating powerful political messages, take the online course: https://www.edx.org/course/framing-how-politicians-debate-delftx-frame101x
+To learn more about framing and creating powerful political messages, take the online course: [Frame101x Framing: Creating powerful political messages](https://www.edx.org/course/framing-how-politicians-debate-delftx-frame101x)
 
 This article is a product of my learnings from the course.
 
