@@ -13,7 +13,7 @@ comments: true
 featured: false
 ---
 
-In this article, I talk about how we learnt to program a LED matrix whose protocol we did not know. [http://nikhilendra.com/](Nikhil) and I worked on this with the [http://almabase.com/](Almabase) team for building a digital dashboard named Abacus for them.
+In this article, I talk about how we learnt to program a LED matrix whose protocol we did not know. [Nikhil](http://nikhilendra.com/) and I worked on this with the [Almabase](http://almabase.com/) team for building a digital dashboard named Abacus for them.
 
 The LED dot matrix display that we were trying to program looked similar to this. It was a 96x16 dot matrix display.
 
