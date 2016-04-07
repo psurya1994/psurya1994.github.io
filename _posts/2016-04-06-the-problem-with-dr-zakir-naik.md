@@ -13,13 +13,13 @@ comments: true
 featured: false
 ---
 
-Religion and studying it's impacts is something that interests me. In this article, I'd like to talk about Dr. Zakir Naik who seems to be misleading with dishonent arguments.
+Religion and studying it's impacts is something that interests me. In this article, I'd like to talk about Dr. Zakir Naik who seems to be misleading millions with incorrect and dishonest arguments.
 
-I wanted to read the Quran to learn something that'll be valuble; but I was surprised to see what's in there. Some of the verses seemed to be mocking the unbelievers and I thought this is a bad place to get your moral values from.
+I wanted to read the Quran to learn something that'll be valuble; but I was surprised to see what's in there. Some of the verses seemed to be mocking the unbelievers and I thought this is a bad place for anyone to get their moral values from.
 
-I started having conversations with Muslim friends asking them how these verses could be justified. Some of them (I would not like to take names here) gave me arguments that I was not completely convinced with, and they guided me towards the videos of Dr. Zakir Naik. They told me I should watch his videos to learn more about what Islam actually is.
+I started having conversations with Muslim friends asking them how these verses could be justified. Some of them (I would not like to take names here) gave me arguments that I was not convinced with, and they guided me towards the videos of Dr. Zakir Naik. They told me I should watch his videos to learn more about what Islam actually is.
 
-Dr. Zakir Naik is an Islamic preacher and apparently, he is a trained medical doctor. I had a very open mind and would have converted to Islam is he'd have been convincing. Not surprisingly, his arguments did not make sense.
+Dr. Zakir Naik is an Islamic preacher and apparently, he is a trained medical doctor. I had a very open mind and would have converted to Islam is he'd have been convincing enough. Not surprisingly, his arguments made no sense.
 
 I though he was a nice person who was inspiring people to do good things but after watching this video I've lost all trust on him. 
 
@@ -33,7 +33,7 @@ He actually thinks evolution is not real and that's not the worst part. He actua
 
 Evolution has been verified by multiple independent branches of science- DNA, palentology, anatomy, geographical distribution, experiments in lab, etc., He's a fucking medical doctor; how in the world can he say something as ridiculous, I will never know.
 
-> By this point, it must be clear to you that Dr. Zakir Naik knows absolutely nothing about science or a dishonest man deluding millions of people. Either way, he deserves no followers.
+> By this point, it must be clear to you that Dr. Zakir Naik either knows absolutely nothing about science or is a dishonest man deluding millions of people. Either way, he deserves no followers.
 
 -----
 
@@ -45,10 +45,9 @@ Further, in the above video, Dr Zakir Naik claims that 80% of the Quran is in li
 
 Dr Zakir Naik also says, "little knowledge of science makes you atheist, indepth knowledge of science makes you believe in god."
 
-Again, if you look at the data; he's wrong. According to a survey- 90% of people believe in god, 60% of scientists believe in god, 10% of elite scientists believe in god [1].  Clearly, with increasing knowledge of science; more people turn atheists. 
-I know he's great at articulation and has a read most of the religious literature, but I don't think I can trust him more because I see him make a lot of factually incorrect claims.
+Again, if you look at the data; he's wrong. According to a survey- 90% of people believe in god, 60% of scientists believe in god, 10% of elite scientists believe in god [1].  Clearly, with increasing knowledge of science; lesser people believe in god. 
 
-Further, he goes on to say 
+I know he's great at articulation and has a read most of the religious literature, but I don't think I can trust him more because I see him make a lot of factually incorrect claims.
 
 > Making up things in the name of science to spread his religion is horrible and Dr. Zakir Naik manages to do just that.
 
