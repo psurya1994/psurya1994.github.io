@@ -45,9 +45,7 @@ Further, in the above video, Dr Zakir Naik claims that 80% of the Quran is in li
 
 Dr Zakir Naik also says, "little knowledge of science makes you atheist, indepth knowledge of science makes you believe in god."
 
-Again, if you look at the data; he's wrong. According to a survey- 90% of people believe in god, 60% of scientists believe in god, 10% of elite scientists believe in god [1].  Clearly, with increasing knowledge of science; lesser people believe in god. 
-
-I know he's great at articulation and has a read most of the religious literature, but I don't think I can trust him more because I see him make a lot of factually incorrect claims.
+Again, if you look at the data; he's wrong. According to a survey- 90% of people believe in god, 60% of scientists believe in god, 10% of elite scientists believe in god [1].  Clearly, with increasing knowledge of science; lesser people believe in god. I know he's great at articulation and has a read most of the religious literature, but I don't think I can trust him more because I see him make a lot of factually incorrect claims.
 
 > Making up things in the name of science to spread his religion is horrible and Dr. Zakir Naik manages to do just that.
 
