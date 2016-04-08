@@ -10,7 +10,7 @@ imagefeature:
 mathjax: 
 chart: 
 comments: true
-featured: false
+featured: true
 ---
 
 This article is a short insight that shows you why getting into an opponents frame could be dangerous.

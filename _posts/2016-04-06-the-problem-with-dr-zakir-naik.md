@@ -10,7 +10,7 @@ imagefeature:
 mathjax: 
 chart: 
 comments: true
-featured: false
+featured: true
 ---
 
 Religion and studying it's impacts is something that interests me. In this article, I'd like to talk about Dr. Zakir Naik who seems to be misleading millions with incorrect and dishonest arguments.
