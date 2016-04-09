@@ -41,14 +41,19 @@ Evolution has been verified by multiple independent branches of science- DNA, pa
   <iframe width="560" height="315" src="https://www.youtube.com/embed/XEcocSZnk1g" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Further, in the above video, Dr Zakir Naik claims that 80% of the Quran is in line with science; where as 20% is ambiguious. He is factually wrong. There are many claims in the Quran which are clearly rejected by Science.  [http://wikiislam.net/wiki/Scientific_Errors_in_the_Quran](Ref) 
+Further, in the above video, Dr Zakir Naik claims that 80% of the Quran is in line with science; where as 20% is ambiguious. He is factually wrong. There are many claims in the Quran which are clearly rejected by Science.  [1] 
 
 Dr Zakir Naik also says, "little knowledge of science makes you atheist, indepth knowledge of science makes you believe in god."
 
-Again, if you look at the data; he's wrong. According to a survey- 90% of people believe in god, 60% of scientists believe in god, 10% of elite scientists believe in god [1].  Clearly, with increasing knowledge of science; lesser people believe in god. I know he's great at articulation and has a read most of the religious literature, but I don't think I can trust him more because I see him make a lot of factually incorrect claims.
+Again, if you look at the data; he's wrong. According to a survey- 90% of people believe in god, 60% of scientists believe in god, 10% of elite scientists believe in god [2].  Clearly, with increasing knowledge of science; lesser people believe in god. I know he's great at articulation and has a read most of the religious literature, but I don't think I can trust him more because I see him make a lot of factually incorrect claims.
 
 > Making up things in the name of science to spread his religion is horrible and Dr. Zakir Naik manages to do just that.
 
 Most people don't know that and they go by Dr Naik because they trust him. Deluding people who trust you is one of the worse things I can imagine. I hope people realize that this guy has no idea what he's talking about whenever he takes the name of science and stay away from all his bullshit.
 
-[1] Data produced by Neil DeGrasse Tyson during a [https://www.youtube.com/watch?v=5xvILvxYbFA](talk)
+#### References
+
+[1] 
+[Scientific Errors in the Quran](http://wikiislam.net/wiki/Scientific_Errors_in_the_Quran)
+
+[2] Data produced by Neil DeGrasse Tyson during a [talk](https://www.youtube.com/watch?v=5xvILvxYbFA])
