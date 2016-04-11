@@ -4,7 +4,7 @@ title: "How Hello Internet Podcast Helped Me"
 description: ""
 headline: 
 modified: 2016-04-09
-category: Religion
+category: Other
 tags: [jekyll]
 imagefeature: 
 mathjax: 

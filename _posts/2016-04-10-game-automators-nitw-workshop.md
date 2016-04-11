@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Game Automators Workshop at NIT Warangal"
+title: "Game Automators - NIT Warangal Workshop"
 description: 
 headline: 
 modified: 2016-04-10
