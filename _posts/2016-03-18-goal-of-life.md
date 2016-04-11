@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thoughts - What's The Goal of Life?"
+title: "Thoughts - What's The Goal of Life? (Part 1)"
 description: 
 headline: 
 modified: 2016-03-18

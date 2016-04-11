@@ -5,7 +5,7 @@ description:
 headline: 
 modified: 2015-12-15
 category: GameAutomators
-tags: [jekyll]
+tags: [game automators]
 imagefeature: 
 mathjax: 
 chart: 
