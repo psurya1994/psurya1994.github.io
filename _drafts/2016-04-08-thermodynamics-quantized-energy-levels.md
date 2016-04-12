@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thermodynamics - Quantized Energy Levels"
+title: "Thermodynamics - Quantized Energy Levels (Part 1)"
 description: ""
 headline: 
 modified: 2016-04-08
