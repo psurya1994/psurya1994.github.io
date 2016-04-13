@@ -17,7 +17,7 @@ I was surpised to see how much bullshit is in this a by Sadhguru. Worse of all, 
 
 -----
 <div style="height:100%;width:100%;text-align:center;padding: 2% 15% 2% 15%;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/t5ebjk319Wg" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6C1p4HUHlfE" frameborder="0" allowfullscreen></iframe>
 </div>
 -----
 
