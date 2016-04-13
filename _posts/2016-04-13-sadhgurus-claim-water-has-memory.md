@@ -3,7 +3,7 @@ layout: post
 title: "Sadhguru's Bullshit - Water Has Memory"
 description: ""
 headline: 
-modified: 2016-04-15
+modified: 2016-04-13
 category: Science
 tags: [jekyll]
 imagefeature: 

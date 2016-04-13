@@ -4,7 +4,7 @@ title: "The Problem With Dr. Zakir Naik"
 description: ""
 headline: 
 modified: 2016-04-06
-category: Religion
+category: Science
 tags: [jekyll]
 imagefeature: 
 mathjax: 
