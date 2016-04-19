@@ -31,7 +31,7 @@ I posted the same in a Facebook post, and people commented their prespectives on
 
 There are reasons why there are only three major states and science has figured that out. From solid state to liquid state, the transition happens suddenly when the kinetic energy of the molecules is high enough to overcome the lattice forces. For liquid to gas, it has to overcome the intermolecular forces. Further, for gas to plasma, it has to get over the atomic forces. 
 
-You could ask- Ok, you're giving me the reasons why but it could be some other way; why does it work only like this? Well, that's how the world works, that's how the laws of nature. Why are the law of nature that way? We don't know yet. 
+You could ask- Ok, you're giving me the reasons why, but it could be some other way; why does it work only like this? Well, that's how the world works, that's how the laws of nature. Why are the law of nature that way? We don't know yet. 
 
 Coming to your understanding that equations in thermodynamics come out of thin air through trial and error is wrong. Each of the equations have been invented by different people and they have their names on it. Do you think they just keep trying out different equations randomly to see how it works? That's just not true.
 
