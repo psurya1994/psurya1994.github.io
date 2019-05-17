@@ -1,27 +1,7 @@
-Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
-  
-Main Features:
+Progress on my dreams:
 
-* Zurb Foundation 5 – css framework
-* Scss files with settings file
-* Fullscreen post covers with header wich will be bright or dark according to background image
-* Fast and light
-* Font Awesome
-* Disqus comments integration
-
-You can set post image covers by using only Kramdown narkdown, just place something like this: `![cover-image](http://path-to-your-image.jpg)`
-
-Credits:
-
-* Zurb Foundation 5 [http://foundation.zurb.com/](http://foundation.zurb.com/)
-* Font Awesome [http://fontawesome.io](http://fontawesome.io)
-* Google fonts [http://www.google.com/fonts](http://www.google.com/fonts)
-* Background check [http://kennethcachia.com/background-check](http://kennethcachia.com/background-check)
-* Codrops article: [http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
-* There are also tools like jQuery, Modernizr, Normalize.
-
-If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
-
-
-Warm Regards and Stay Creative,  
-Hossain Mohd. Faysal
+1. Learn to memorize a deck of 52 cards, and do a live demo on social media (memorizing in less than 13 minutes). Links: [goal](https://www.instagram.com/p/BmQ50unHYEO/), [training](https://www.instagram.com/p/BoAW0_LHZlL/), [progress1](https://www.instagram.com/p/BoVBrZCHkcB/)
+2. Do one arm pushups. Links: [goal](https://www.instagram.com/p/Bn1D5vdHdeg/)
+3. Meditate for one hour at a stretch. Links: [goal](https://www.instagram.com/p/Bn8tHcgnPLx/), [training](https://www.instagram.com/p/Bo3rfEbHnGl/)
+4. 20-minutes of 0-distraction reading everyday for a month. Links: [goal](https://www.instagram.com/p/BoygL7wn7nu/)
+5. Write a story script and make a movie on it. Links: [goal](https://www.instagram.com/p/Bo3nZ7KnK99/)
