@@ -25,6 +25,7 @@ I speculate that the following are the reasons why Newtons laws feel much simple
 * **Having prerequisite background**: Present day student knows advanced math, so the math in Newtons laws comes very easily. 
 * **Access to good condensed explanations**: Present day student has access to good intuitive explanations of the Newtons laws (from books, lectures, etc.). They also have condensed versions 
 * **Psychological advantage**: Newtons laws are presented as the simplest of concepts in textbooks (presented in initial chapters). This has the psychological impact of students thinking that these ideas are easy, they are not intimidated anymore. Also, Newtons isn't seen as the guy who has advanced knowledge on everything. 
+* **Memorizing key results without understanding**: We also use some formulas as facts without thinking closely about them. This helps us learn advanced concepts more easily but I'm not sure if it's a good thing. It's sad how few people can derive the formula for area of circle from scratch (I can't do that either).
 
 Therefore, if you want to get into learning present state of the art concepts quickly, I believe you could use the following tips.
 * Have strong background of all prerequisite courses to understand the concept. 
