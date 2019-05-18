@@ -15,6 +15,8 @@ featured: false
 
 The first half of Maharshi was incredibly inspiring and best I've watched till date. I liked it that much because I could relate to it well and what I'm going through in my life. Below, I mention some characteristics of Rishi that I find inspiring.
 
+**SPOILERS AHEAD**
+
 **No fear of judgement:** Rishi's ability to not care about what others think of him and doing what he feels is correct. In my case, I'm [afraid of judgment](https://www.instagram.com/p/Bxhsc0YnJIH/) to a level that I clearly see is impeding the potential I could reach.
 
 **Eloquency:** Rishi can explain what he thinks very well. This is probably because he ruminated on these questions for long ahead of time. I need to do the same, think closely about common questions that I come across in conversations (and maybe write down my response to it).
