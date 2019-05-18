@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spencer Greenberg's Writings"
+title: "Spencer Greenberg's writings"
 description: ""
 headline: 
 modified: 2019-05-20
