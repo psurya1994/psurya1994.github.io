@@ -10,7 +10,7 @@ imagefeature:
 mathjax: 
 chart: 
 comments: true
-featured: false
+featured: true
 ---
 
 I have this feeling that understanding state-of-the-art algorithms in any field is very hard. I keep reasoning that this is because the brightest minds in the field are working on it, and I'm not the brightest of minds. In this article, I think about it more closely and breakdown the misconception I have been having.
