@@ -7,7 +7,6 @@ Progress on my dreams:
 3. Meditate for one hour at a stretch. Links: [goal](https://www.instagram.com/p/Bn8tHcgnPLx/), [training](https://www.instagram.com/p/Bo3rfEbHnGl/)
 4. 20-minutes of 0-distraction reading everyday for a month. Links: [goal](https://www.instagram.com/p/BoygL7wn7nu/)
 5. Write a story script and make a movie on it. Links: [goal](https://www.instagram.com/p/Bo3nZ7KnK99/)
-6. Write and publish 30 articles in a month. 
+6. Write and publish 30 articles in a month. Links: [goal]()
 
 * Do a muscle up
-
