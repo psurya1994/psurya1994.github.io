@@ -19,4 +19,6 @@ Some background: After I scored 330 (Verbal: 160, Quant: 170) on my GRE, many pe
 
 I organized a Q&A session on Facebook covering all these strategies, here's the link: [https://www.facebook.com/psurya1994/posts/10210585087013029](https://www.facebook.com/psurya1994/posts/10210585087013029)
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpsurya1994%2Fposts%2F10210585087013029&width=500" width="500" height="241" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<div style="height:100%;width:100%;text-align:center;padding: 2% 15% 2% 15%;">
+	<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpsurya1994%2Fposts%2F10210585087013029&width=500" width="500" height="241" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+</div>
