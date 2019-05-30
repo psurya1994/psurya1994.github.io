@@ -4,8 +4,8 @@ title: "Problem with Johann Hari's argument on addiction"
 description: ""
 headline: 
 modified: 2019-05-23
-category: Productivity
-tags: [productivity]
+category: Ideas
+tags: [ideas]
 imagefeature: 
 mathjax: 
 chart: 
