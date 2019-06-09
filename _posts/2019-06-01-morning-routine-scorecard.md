@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Productivity experiment: Morning Routine Scorecard"
+title: "Productivity experiment: morning routine scorecard"
 description: ""
 headline: 
 modified: 2019-06-01
@@ -15,5 +15,5 @@ featured: false
 
 I maintained a productivity scorecard tracking my morning routine over the past 15 days, helped me stay on track. Will continue to do this. :)
 
-![images/blog/2019-06-01-scorecard.png]
+![images/blog/2019-06-01-scorecard.png](images/blog/2019-06-01-scorecard.png)
 
