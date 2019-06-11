@@ -4,8 +4,8 @@ title: "Experience giving a technical talk"
 description: ""
 headline: 
 modified: 2019-06-12
-category: Ideas
-tags: [ideas]
+category: Productivity
+tags: [productivity]
 imagefeature: 
 mathjax: 
 chart: 
@@ -40,7 +40,7 @@ Finally: The talk went great and people like it a lot. I realized it was very in
 I’ve seen Naveen give a great speech at toastmasters, so reached out for his suggestions.
 
 Approach sounded quite promising. Here are my notes while listening to Naveen.
-==
+
 - Prepare as if the talk was on Saturday morning.  (the perfect talk!)
 - Make a video of whatever you can do right now. (deliver it by tonight) Prepare the talk! (a casual talk where it's okay to make mistakes)
 - Give a talk right now. 
