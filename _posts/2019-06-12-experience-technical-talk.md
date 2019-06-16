@@ -95,3 +95,5 @@ Sun 11.00am: Another dry run now, I've prepared well. I should just repeat what 
 Sun 12.30pm: The run went well, found a few places where I need to be more clear. Will fix them and go directly tomorrow. No more dry runs. 
 
 Mon 12.30pm: I loved how I presented. Giving enough time for people to ask questions. Limiting the presentation to 30 minutes. It played out very well, I'm quite happy. :D
+
+Tue 9.00am: Recording the talk by myself so that I can upload on YouTube. 
