@@ -1,0 +1,5 @@
+I’ve started practicing stoic philosophy, quite helpful to handle stress. I hardly have any stress in life, need more stress to practice and test it better.
+
+[1:25 PM, 7/3/2019] Surya: It argues that your actions are all that matter. they argue a version of "you can be completely content by just choosing the right actions, consequences/desires don't matter at all. If you're influenced by consequences/desires, you're making yourself vulnerable, it's a bad state to be in."
+[1:26 PM, 7/3/2019] Surya: I do thought experiments like what if I lose my legs? And try to make peace with the fact that it’s not that bad a thing.
+It’s wasn’t easy for me to understand it at a deep level. I watched many YouTube videos before, felt like it made sense but didn’t really click. Reading Derren’s happy, i think I was able to understand it more deeply.

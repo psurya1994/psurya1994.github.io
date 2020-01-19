@@ -37,6 +37,8 @@ links:
     url: /
     external: false
     icon: home
+  - title: About me
+    url: /about
   - title: Featured Posts
     url: /featured
   - title: Archive
